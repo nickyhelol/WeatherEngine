@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-input {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 30px;
+  width: 200px;
+}
+
+.App-button {
+  margin-left: 10px;
+  margin-top: 70px;
+  border-radius: 4px;
+  font-size: 16px;
+  height: 30px;
+  width: 110px;
+  background-color: rgb(230, 48, 72);
+  color:white;
+  border: none;
+}
+
+.Result {
+  font-style: italic;
+  color: white;
+  margin-top: 60px;
+  font-size: 20px; 
+}
